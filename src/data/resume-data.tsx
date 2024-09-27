@@ -31,40 +31,40 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "chayannath19@gmail.com",
+    tel: "+91-7975700887",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/ChayanNath",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/chayan-nath/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/ChayanNath4",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Cambridge Institute of Technology",
+      degree: "Bachelor's Degree in Computer Science and Engineering",
+      start: "2017",
+      end: "2021",
     },
   ],
   work: [
     {
-      company: "Film.io",
-      link: "https://film.io",
-      badges: ["Remote"],
-      title: "Software Architect",
+      company: "Dassault Systemes",
+      link: "https://www.3ds.com/",
+      badges: ["Full Time"],
+      title: "Software Engineer Specialist",
       logo: ConsultlyLogo,
       start: "2024",
       end: null,
@@ -72,13 +72,13 @@ export const RESUME_DATA = {
         "Leading the development of the Film.io platform. Technologies: React, TypeScript, Node.js",
     },
     {
-      company: "Parabol",
+      company: "Knowledge Lens",
       link: "https://parabol.co",
       badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      title: "Senior Software Engineer",
       logo: ParabolLogo,
       start: "2021",
-      end: "2024",
+      end: "2023",
       description:
         "Implemented new features, led a squad, improved code delivery process, and initiated migration from Emotion to Tailwind CSS. Technologies: React, TypeScript, GraphQL",
     },
@@ -116,6 +116,7 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
+    "HTML/CSS",
     "JavaScript",
     "TypeScript",
     "React/Next.js/Remix",
